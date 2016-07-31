@@ -1,3 +1,5 @@
 # PokeVisionFinder
-You need a Google Places API Key in order to make this work.
-https://developers.google.com/places/web-service/
+- Cài đặt Python 2.7x
+- Bạn cần một Google Places API Key để có thể làm việc
+- Get API tại đây :
+- https://developers.google.com/places/web-service/
